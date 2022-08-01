@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>src/java/MarketingController/FilterCustomerServlet.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>65</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/AdminController/AdminDashBoardServlet.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/CartController/BuyServlet.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/web/feedbacklist.jsp</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/AccountController/SendEmail.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/web/Sale/saledashboard.jsp</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/MarketingController/AddProductServlet.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/web/Marketing/marketingdashboard.jsp</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/web/Marketing/bloglist.jsp</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/web/Admin/Admin_Dashboard.jsp</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/model/Product.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/web/homepage.jsp</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/dal/ProductDAO.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/controller/BlogDetailServlet.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/dal/OrderDAO.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/controller/ProductDetailServlet.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/CartController/CartCompletionServlet.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/MarketingController/ProductSearchServlet.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/web/productdetails.jsp</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/filter/AuthorizationFilter.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/CartController/ProcessServlet.java</file>
+            <file>file:/C:/Gitt/SWP391_OnlineShop/src/java/CartController/ShoppingCartServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
